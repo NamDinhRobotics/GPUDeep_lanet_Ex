@@ -1,5 +1,7 @@
-//
+// THis code is used for Deep learning on GPU C++
+// The most important is how to configute cmake when running on NVIDIA emdedded board
 // File: main.cu
+// Author: Quangnam.auto.tech@gmail.com, IRL lab.
 //
 // NET TO CHANGE , directory of .bin file Exactly in File: DeepLearningNetwork.cu
 // "/home/dinhnambkhn/CLionProjects/GPUDeep_lanenet/detect_lane/cnn_lanenet0_0_conv2_w.bin",
